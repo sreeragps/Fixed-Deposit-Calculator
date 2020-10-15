@@ -14402,8 +14402,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\projects\\FDCalculatorApp\\Pages\\StackOverFlow\\CsharpQuestions.cshtml",
+      "TargetPath": "Pages\\StackOverFlow\\CsharpQuestions.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\projects\\FDCalculatorApp\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\projects\\FDCalculatorApp\\Pages\\StackOverFlow\\JavascriptQuestions.cshtml",
+      "TargetPath": "Pages\\StackOverFlow\\JavascriptQuestions.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14422,13 +14432,43 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\projects\\FDCalculatorApp\\Pages\\Shared\\_Stackoverflowlayout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Stackoverflowlayout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\projects\\FDCalculatorApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\projects\\FDCalculatorApp\\Pages\\StackOverFlow\\DotnetQuestions.cshtml",
+      "TargetPath": "Pages\\StackOverFlow\\DotnetQuestions.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\projects\\FDCalculatorApp\\Pages\\StackOverFlow\\Contacts.cshtml",
+      "TargetPath": "Pages\\StackOverFlow\\Contacts.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\projects\\FDCalculatorApp\\Pages\\StackOverFlow\\index.cshtml",
+      "TargetPath": "Pages\\StackOverFlow\\index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\projects\\FDCalculatorApp\\Pages\\StackOverFlow\\Questions.cshtml",
+      "TargetPath": "Pages\\StackOverFlow\\Questions.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\projects\\FDCalculatorApp\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\projects\\FDCalculatorApp\\Pages\\StackOverFlow\\Projects.cshtml",
+      "TargetPath": "Pages\\StackOverFlow\\Projects.cshtml",
       "FileKind": "mvc"
     }
   ],

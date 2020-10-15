@@ -1,4 +1,3 @@
-C:\projects\FDCalculatorApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\projects\FDCalculatorApp\bin\Debug\netcoreapp3.1\appsettings.json
 C:\projects\FDCalculatorApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\projects\FDCalculatorApp\bin\Debug\netcoreapp3.1\FDCalculatorApp.exe
@@ -36,3 +35,11 @@ C:\projects\FDCalculatorApp\obj\Debug\netcoreapp3.1\FDCalculatorApp.dll
 C:\projects\FDCalculatorApp\obj\Debug\netcoreapp3.1\FDCalculatorApp.pdb
 C:\projects\FDCalculatorApp\obj\Debug\netcoreapp3.1\FDCalculatorApp.genruntimeconfig.cache
 C:\projects\FDCalculatorApp\obj\Debug\netcoreapp3.1\FDCalculatorApp.csproj.CopyComplete
+C:\projects\FDCalculatorApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Stackoverflowlayout.cshtml.g.cs
+C:\projects\FDCalculatorApp\obj\Debug\netcoreapp3.1\Razor\Pages\StackOverFlow\Contacts.cshtml.g.cs
+C:\projects\FDCalculatorApp\obj\Debug\netcoreapp3.1\Razor\Pages\StackOverFlow\CsharpQuestions.cshtml.g.cs
+C:\projects\FDCalculatorApp\obj\Debug\netcoreapp3.1\Razor\Pages\StackOverFlow\DotnetQuestions.cshtml.g.cs
+C:\projects\FDCalculatorApp\obj\Debug\netcoreapp3.1\Razor\Pages\StackOverFlow\index.cshtml.g.cs
+C:\projects\FDCalculatorApp\obj\Debug\netcoreapp3.1\Razor\Pages\StackOverFlow\JavascriptQuestions.cshtml.g.cs
+C:\projects\FDCalculatorApp\obj\Debug\netcoreapp3.1\Razor\Pages\StackOverFlow\Projects.cshtml.g.cs
+C:\projects\FDCalculatorApp\obj\Debug\netcoreapp3.1\Razor\Pages\StackOverFlow\Questions.cshtml.g.cs
