@@ -1,0 +1,10 @@
+appsettings.Development.json
+.bin
+.obj
+/bin
+/obj
+.bin
+.obj
+.obj
+.json
+

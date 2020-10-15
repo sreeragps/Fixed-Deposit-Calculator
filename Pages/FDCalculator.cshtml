@@ -1,0 +1,22 @@
+@page
+@model IndexModel
+@{
+    ViewData["Title"] = "TIP CALCULATOR";
+}
+<div class="text-center">
+    <h1>FIXED DEPOSIT CALCULATOR</h1>
+</div>
+<div class="text-center">
+   <form method="POST">
+       <label for="BillAmount">Fixed Deposit Amount:</label>
+       <input type="text" name="amount">
+       <label for="interest">Interest(%):</label>
+       <input type="text" name="interest"><br><br>
+       <label for="years">Years</label>
+       <input type="text" name="years"><br><br>
+       <input type="submit" value="Submit">
+       <label >Maturity Amount using ViewData:@ViewData["Maturity"]</label><br>
+       <label >Maturity Amount using model:@Model._maturity</label><br>
+       <label >Maturity Amount using model & Property:@Model.Maturity</label>
+   </form>
+</div>
