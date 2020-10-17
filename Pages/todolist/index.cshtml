@@ -1,0 +1,42 @@
+@page
+@{
+    Layout="_todolistlayout";
+}
+@model ToDoListIndexModel
+@{
+    ViewData["Title"] = "Todo List";
+}
+
+<div class="container">
+     <div class="row">
+    <div class="col-md-4" ></div>
+    <div class="col-md-4" style="background-color:PowderBlue;">
+        <h1 class="display-4" style="color:blue"><strong>My To Do List</strong></h1>
+    </div>
+    <div class="col-md-4" ></div>
+  </div>
+    
+    <form method="POST">
+        <div class="row">
+        <div class="col-md-4" ></div>       
+        <div class="col-md-4" style="background-color:PowderBlue;">
+        <input type="text" id="newtask"name="newtask" placeholder="Enter new task" style="background-color:lavender" required>
+        <button type="submit" style="color:MediumPurple"><i class="fa fa-plus"></i></button>
+        </div>
+         <div class="col-md-4" ></div>
+         </div>
+         @for(int i=0;i<Model.tasks.Length;i++)
+        {  
+             <div class="row" >
+                <div class="col-md-4" ></div>
+                <div class="col-md-4" style="background-color:PowderBlue;">
+                 <input type="checkbox" >
+                <label style="color:black"><bold>@Model.tasks[i]</bold></label>
+                </div>
+                <div class="col-md-4"></div>
+             </div>
+         
+        }
+    </form>
+    
+</div>
