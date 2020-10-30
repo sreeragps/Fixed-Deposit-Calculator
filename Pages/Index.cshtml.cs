@@ -35,7 +35,7 @@ namespace FDCalculatorApp.Pages
         {
 
         }
-        public void OnPost()
+       /* public void OnPost()
         {
             double amnt = double.Parse(Request.Form["amount"]);
             double interest = double.Parse(Request.Form["interest"]);
@@ -46,6 +46,6 @@ namespace FDCalculatorApp.Pages
             Maturity = maturity;
 
 
-        }
+        }*/
     }
 }

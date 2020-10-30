@@ -43,3 +43,4 @@ C:\projects\FDCalculatorApp\obj\Debug\netcoreapp3.1\Razor\Pages\StackOverFlow\in
 C:\projects\FDCalculatorApp\obj\Debug\netcoreapp3.1\Razor\Pages\StackOverFlow\JavascriptQuestions.cshtml.g.cs
 C:\projects\FDCalculatorApp\obj\Debug\netcoreapp3.1\Razor\Pages\StackOverFlow\Projects.cshtml.g.cs
 C:\projects\FDCalculatorApp\obj\Debug\netcoreapp3.1\Razor\Pages\StackOverFlow\Questions.cshtml.g.cs
+C:\projects\FDCalculatorApp\obj\Debug\netcoreapp3.1\Razor\Pages\StackOverFlow\Answers.cshtml.g.cs
