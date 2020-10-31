@@ -1,0 +1,24 @@
+@page
+@{
+    Layout="_Stackoverflowlayout";
+}
+@model AddIndex
+@{
+    ViewData["Title"] = "StackOverFlow Home page";
+}
+
+
+<div class="text-center">
+    <h1 class="display-4"><strong>ADD QUESTIONS</strong></h1>
+</div>
+<div class="text-center">
+    <div class="col-md-4">
+         <form method = "post">
+         <label style="color:black"><b>Enter Question:<input type="text" id="q"name="question" placeholder="Enter Question" style="background-color:lavender" ></b></label>
+         <br><label>Answer:<b><input type="text" id="a"name="details" placeholder="answer" style="background-color:lavender" ></b></label><br>
+         <input type = "submit" value = "submit" />
+    </form>
+    </div>
+    <div class="col-md-4"></div>
+    <div class="col-md-4"></div>
+</div>

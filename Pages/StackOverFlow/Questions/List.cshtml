@@ -1,0 +1,34 @@
+@page "/StackOverFlow/List"
+@{
+    Layout = "_Stackoverflowlayout";
+}
+@model ListModel
+@{
+    ViewData["Title"] = "List of Questions";
+}
+
+<head>
+    <style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
+
+<body>
+    <table>
+        <tr>
+            <th>Questions</th>
+            <th>Details</th>
+
+        </tr>
+        @for (int i = 0; i < Model.QuestionList.Count; i++)
+        {
+            <tr>
+                <td>@Model.QuestionList[i].Questions</td>
+                <td>@Model.QuestionList[i].Details</td>
+
+            </tr>
+        }
+    </table>
+</body>
